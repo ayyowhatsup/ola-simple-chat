@@ -1,0 +1,16 @@
+export const DEFAULT_ASSETS = [
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nu7_pnu1zy.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nu5_upbpf0.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nu6_tbftyw.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nu4_mzxawl.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nam6_wgo8hm.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nu3_modpo9.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nu2_saz9ap.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nu1_davzam.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595598/chat/nam5_eiwnsr.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595597/chat/nam7_dl4hwk.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595597/chat/nam4_e19qlt.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595597/chat/nam3_pdu3eb.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595597/chat/nam2_iwoyeh.png",
+  "https://res.cloudinary.com/ddpym9h5e/image/upload/v1709595597/chat/nam2_iwoyeh.png",
+];
